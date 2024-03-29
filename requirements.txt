@@ -1,0 +1,9 @@
+torch>=0.4.1
+torchvision>=0.2.1
+opencv-python>=3.4.0.14
+numpy>=1.14.0
+matplotlib
+
+# pycocotools
+Cython
+git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
